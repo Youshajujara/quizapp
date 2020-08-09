@@ -1,0 +1,31 @@
+body{
+    background-color: thistle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mian{
+    border-radius: 2rem !important;
+}
+
+
+
+.question{
+    background-color: antiquewhite;
+    font-size: 30px;
+}
+
+.btn{
+    font-size: 20px;
+    margin-left: 700px;
+}
+
+.head{
+    text-align: center;
+}
+
+input[type=radio] {
+    width: 40px;
+    height: 20px;
+    font-size: 11px !important;
+}
+
